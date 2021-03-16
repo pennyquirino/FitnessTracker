@@ -23,4 +23,4 @@ View the total duration of each workout from the past seven workouts on the stat
 
 <a href="https://peaceful-savannah-94964.herokuapp.com/">Click to see this application deployed via Heroku</a> 
 
-![](Capture.JPG)
+![](capture.JPG)
